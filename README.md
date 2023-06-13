@@ -1,3 +1,3 @@
 # sample-lede-thing
  
-This is a sample respoitory so I can see how GithubDesktop Works. 
+This is a sample respository so I can see how GithubDesktop Works. 
